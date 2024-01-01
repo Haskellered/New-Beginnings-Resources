@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Various resources for the New Beginnings modpack",
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 22
+        }
+    }
+}
